@@ -1,0 +1,2 @@
+# magazyn
+Magazyn KrainaPsa
