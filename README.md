@@ -1,2 +1,2 @@
-# magazyn
-Magazyn KrainaPsa
+# PORTAL
+PORTAL KrainaPsa
